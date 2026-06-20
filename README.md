@@ -15,3 +15,4 @@ and see through physics rather than just data.
 
 [![npm](https://img.shields.io/github/stars/BotickDev/letheo?style=social)](https://github.com/BotickDev/letheo)
 [![Letheo](https://img.shields.io/npm/dm/overseed-mcp?label=overseed-mcp%20downloads)](https://www.npmjs.com/package/overseed-mcp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexbick-blue?logo=linkedin)](https://linkedin.com/in/alexbick)
