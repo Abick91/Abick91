@@ -1,23 +1,16 @@
-### Abick · Deep Tech / Physics-Informed AI
+### Abick · Deep Tech / Agentic Infrastructure
 
-I build systems where intelligence is grounded in physics — not just data.
+I build the infrastructure layer for the agentic era — deterministic systems
+where AI can act without corrupting state, remember without growing unbounded,
+and see through physics rather than just data.
 
-My work sits at the intersection of **computational physics**, **AI infrastructure**,
-and **domain-specific runtimes**: problems where the naive ML approach breaks at scale
-or at the boundary of the physical world.
+**Projects:**
 
-**Active projects:**
+| | Project | What it is |
+|--|---------|-----------|
+| 🌱 | [**Overseed**](https://overseed.totem-systems.com) | Agentic backend platform — describe a domain, AI designs the architecture (agents, schema, logic), ships as a real auditable backend. Brain≠Vault: the LLM builds it, a deterministic interpreter runs it. [`overseed-mcp`](https://www.npmjs.com/package/overseed-mcp) · [`overseed-client`](https://www.npmjs.com/package/overseed-client) · [`overseed-agent-sdk`](https://www.npmjs.com/package/overseed-agent-sdk) |
+| 🗿 | [**Letheo**](https://github.com/BotickDev/letheo) | Cognitive Runtime for agent memory (Rust). Forgetting by physics, fixed-size O(1) evocation, two-layer memory (episodic + semantic). Local-first, MIT. |
+| ⚡ | [**Firefly**](https://github.com/BotickDev/FireFly-Showcase) | Physics-informed deep learning for computational lithography — U-Net + Hopkins diffraction for OPC on low-cost UV hardware. |
 
-| Project | What it is |
-|---------|-----------|
-| [Letheo](https://github.com/BotickDev/letheo) | Cognitive Runtime for agent memory — forgetting by physics, local-first (Rust) |
-| [Firefly](https://github.com/BotickDev/FireFly-Showcase) | Physics-informed OPC for computational lithography — U-Net + Hopkins diffraction |
-
-*More in progress.*
-
----
-
-If you work in **EDA, semiconductor process, AI infrastructure, or agent systems** —
-open an issue, reach out, or just star something.
-
+[![npm](https://img.shields.io/npm/dm/overseed-mcp?label=overseed-mcp)](https://www.npmjs.com/package/overseed-mcp)
 [![Letheo](https://img.shields.io/github/stars/BotickDev/letheo?style=social)](https://github.com/BotickDev/letheo)
