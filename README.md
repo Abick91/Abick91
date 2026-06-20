@@ -1,16 +1,23 @@
-## Hi there 👋
+### Abick · Deep Tech / Physics-Informed AI
 
-<!--
-**BotickDev/BotickDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems where intelligence is grounded in physics — not just data.
 
-Here are some ideas to get you started:
+My work sits at the intersection of **computational physics**, **AI infrastructure**,
+and **domain-specific runtimes**: problems where the naive ML approach breaks at scale
+or at the boundary of the physical world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active projects:**
+
+| Project | What it is |
+|---------|-----------|
+| [Letheo](https://github.com/BotickDev/letheo) | Cognitive Runtime for agent memory — forgetting by physics, local-first (Rust) |
+| [Firefly](https://github.com/BotickDev/FireFly-Showcase) | Physics-informed OPC for computational lithography — U-Net + Hopkins diffraction |
+
+*More in progress.*
+
+---
+
+If you work in **EDA, semiconductor process, AI infrastructure, or agent systems** —
+open an issue, reach out, or just star something.
+
+[![Letheo](https://img.shields.io/github/stars/BotickDev/letheo?style=social)](https://github.com/BotickDev/letheo)
